@@ -38,9 +38,10 @@ It complies with all applicable distribution and usage rules.
 4. Launch the game — enjoy the English interface!
 
 ### 🤖 Android
-1. Extract the patch archive to the following directory:  Android/data/in.celest.xash3d.csbtem/files/ddc/resource/
-2. Replace files when prompted.  
-3. Start the game normally.
+1. Extract the patch archive to the following directory:
+2.  Navigate to: Android/data/in.celest.xash3d.csbtem/files/ddc/resource/
+3. Replace files when prompted.  
+4. Start the game normally.
 
 ---
 
@@ -49,7 +50,7 @@ It complies with all applicable distribution and usage rules.
 Join the **official Discord server** for updates, support, and discussions with other players:  
 
 👉 [Join CSMOE Official Discord](https://discord.gg/YMH8gfdUJu)  
-*(CSMOE Indonesia Community)*
+*(CSMOE Citrus Community)*
 
 ---
 
@@ -76,7 +77,7 @@ All rights belong to their respective owners.
 ---
 
 ### ❤️ Credits
-- **ssya** – Project Lead & Translation  
+- **MAX** – Project Lead & Translation  
 - **CSMOE Developers** – Original Game  
 - **Community Contributors** – Support and Testing  
 
