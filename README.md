@@ -33,13 +33,13 @@ It complies with all applicable distribution and usage rules.
 
 ### 🪟 Windows
 1. Copy all patch files to your **CSMOE installation directory**.  
-2. Navigate to:  csmoe/resource/
+2. Navigate to: **csmoe/resource/**
 3. Overwrite existing files if prompted.  
 4. Launch the game — enjoy the English interface!
 
 ### 🤖 Android
 1. Extract the patch archive to the following directory:
-2.  Navigate to: Android/data/in.celest.xash3d.csbtem/files/ddc/resource/
+2.  Navigate to: **Android/data/in.celest.xash3d.csbtem/files/ddc/resource/**
 3. Replace files when prompted.  
 4. Start the game normally.
 
