@@ -1,39 +1,86 @@
-# CSMOE
-CSMOE English Patch
+# 🧩 CSMOE English Patch
 
-CSMOE English Patch Patch is a community translation project for Counter-Strike: Mobile Oriented Edition (CSMOE) from Chinese to English. This project aims to make the game more accessible to Global players.
+**CSMOE English Patch** is a **community-driven translation project** that brings **Counter-Strike: Mobile Oriented Edition (CSMOE)** from **Chinese to English**, making the game more accessible to players around the world.  
 
-Download Link
-Please join Discord first to download the game:
-https://discord.gg/YMH8gfdUJu
+---
 
+## 🎮 What is CSMOE?
 
-What is CSMOE?
-CSMOE is a modified game based on the Xash3D Engine and a modification of Counter-Strike 1.6. It was developed to recreate the feel of Counter-Strike Online (CSO) and Counter-Strike Nexon: Studio (CSN:S or CSN:Z).
+**CSMOE (Counter-Strike: Mobile Oriented Edition)** is a fan-made modification built on the **Xash3D Engine**, based on **Counter-Strike 1.6**.  
+It aims to **recreate the classic gameplay experience** of **Counter-Strike Online (CSO)** and **Counter-Strike Nexon: Studio (CSN:S / CSN:Z)** — optimized for both **PC and Android** platforms.
 
-Why Translate?
-CSMOE is entirely in Chinese. The game was once pirated and illegally resold in the Chinese market (a similar situation also occurred with CSSME and CSBTE), so the developers decided not to open source the latest version. However, ssya has received official permission to release this translated patch.
+---
 
-Legality
-This patch has been officially approved by the CSMOE developers.
-It does not violate any applicable distribution rules.
+## 🌐 Why an English Patch?
 
-How to Install
-Android
-Extract the patch file to the following directory:
-Android/data/in.celest.xash3d.csbtem/files/ddc/resource/
-Replace the file if prompted.
-Windows
-Copy the entire patch file to your CSMOE installation directory.
-Go to csmoe/resource/ and Overwrite the existing file if prompted.
-Run the game as usual.
-Support and Community
-For help, updates, or discussions with the community, please join the Official CSMOE Discord:
-Discord CSMOE Indonesia
+The original version of CSMOE was released **entirely in Chinese**.  
+Due to past incidents where the game was **pirated and resold** in China (similar to CSSME and CSBTE), the developers decided **not to release** the latest version publicly.  
 
-Contribution
-We welcome any contributions, such as translation improvements, bug reports, or further development. Please send a pull request or contact me or another admin via Discord.
+However, with **official permission** from the CSMOE developers, community contributor **ssya** has created and released this **English translation patch** to make the game more accessible globally.
 
-License
-This patch is released with official permission from the CSMOE developers.
-Commercial use of this patch is prohibited without further permission.
+---
+
+## ⚖️ Legality
+
+This patch has been **officially approved** by the CSMOE developers.  
+It complies with all applicable distribution and usage rules.  
+
+> ⚠️ Commercial use or redistribution is prohibited without explicit permission.
+
+---
+
+## 📦 Installation Guide
+
+### 🪟 Windows
+1. Copy all patch files to your **CSMOE installation directory**.  
+2. Navigate to:  csmoe/resource/
+3. Overwrite existing files if prompted.  
+4. Launch the game — enjoy the English interface!
+
+### 🤖 Android
+1. Extract the patch archive to the following directory:  Android/data/in.celest.xash3d.csbtem/files/ddc/resource/
+2. Replace files when prompted.  
+3. Start the game normally.
+
+---
+
+## 💬 Community & Support
+
+Join the **official Discord server** for updates, support, and discussions with other players:  
+
+👉 [Join CSMOE Official Discord](https://discord.gg/YMH8gfdUJu)  
+*(CSMOE Indonesia Community)*
+
+---
+
+## 🧠 Contribute
+
+We welcome all contributions from the community!  
+You can help by:
+- 📝 Improving translations  
+- 🐞 Reporting bugs  
+- 💡 Suggesting better wording  
+- 🧰 Assisting with technical improvements  
+
+Feel free to submit a **pull request** or contact the admins via Discord.
+
+---
+
+## 📜 License
+
+This English Patch is released **with official authorization** from the CSMOE developers.  
+All rights belong to their respective owners.  
+
+> 🚫 Commercial redistribution or modification is **not allowed** without prior written consent.
+
+---
+
+### ❤️ Credits
+- **ssya** – Project Lead & Translation  
+- **CSMOE Developers** – Original Game  
+- **Community Contributors** – Support and Testing  
+
+---
+
+**Made with ❤️ by the CSMOE Global Community.**
+
